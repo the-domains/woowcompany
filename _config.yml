@@ -1,0 +1,14 @@
+layout_spectrum: 0.11511941673234105
+typography_spectrum: 0.6271717196796089
+color:
+  brandStrength: 0.8481374606490135
+  lightness: 0.9433216706383973
+  saturation: 0.17750794882886112
+  rhythmicContrast: 0.6835767216980457
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: woow.company
